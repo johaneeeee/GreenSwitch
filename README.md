@@ -139,7 +139,7 @@ Team GreenSwitch - Code4Good Hackathon 2025
 
 Resources
 
-GitHub: github.com/_johaneeeee/GreenSwitch
+GitHub: github.com/johaneeeee/GreenSwitch
 Hackathon:Code4Good 2025
 Contact:johanemihanta@gmail.com
 
